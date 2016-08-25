@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">App Tracer</string>
+
+    <string name="appId">appId</string>
+    <string name="appId_value">11</string>
+    <string name="uId">uId</string>
+    <string name="environment">environment</string>
+    <string name="os">os</string>
+    <string name="name">name</string>
+    <string name="version">version</string>
+    <string name="app">app</string>
+    <string name="device">device</string>
+    <string name="model">model</string>
+    <string name="loadtime">loadtime</string>
+    <string name="tag">tag</string>
+    <string name="cpu">cpu</string>
+    <string name="battery">battery</string>
+    <string name="gmtTimestamp">gmtTimestamp</string>
+    <string name="loadTime">loadTime</string>
+    <string name="memory">memory</string>
+    <string name="network">network</string>
+    <string name="type">type</string>
+    <string name="bytesTransferred">bytesTransferred</string>
+    <string name="api">api</string>
+    <string name="screen_load_time_name">name</string>
+    <string name="screen_load_time_version">version</string>
+
+</resources>
