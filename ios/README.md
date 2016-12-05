@@ -3,17 +3,17 @@
 ***
 1. Quick and easy setup with just a few lines of code.
 
-2. Detailed Screen/Api load time reports along with OS, device and application details.
+2. Detailed screen/API load time reports along with OS, device and application details.
 
 3. Compatible with all iOS 7.1 and above.
 
 4. If there is no network coverage, reports are stored locally and sent later on the next run.
 
-5. Find out how you app behaves on Live scenario by measuring the load time of Screens and Api.
+5. Find out how you app behaves by measuring the load time of Screens and Api.
 
-6. Flexible enough to be integrated in both Swift and Objective-C projects
+6. Flexible enough to be integrated in both Swift and Objective-C projects.
 
-7. Support in both developement and production purpose. 
+7. Supports development as well as production environments.
 
 8. All the page/api load logs can be stored in document directory of the application or backend system like [New Monk](https://github.com/naukri-engineering/NewMonk).
 
@@ -23,11 +23,12 @@
 ***
 To integrate the library in your application, follow the below mentioned steps:
 `
-1. Download the Tracer Framework and Bundle in your project.
 
-2. For Objective C project write `#import <Tracer/Tracer.h>` in AppDelegate of the Project.
+1. Download the framework and bundle in your project.
 
-3. For Swift project write `#import <Tracer/Tracer.h>` in Bridging header file of the Project.
+2. For Objective C project write `#import <Tracer/Tracer.h>` in AppDelegate of project.
+
+3. For Swift project write `#import <Tracer/Tracer.h>` in Bridging header file of project.
 
 4. Configure optional properties:
 
